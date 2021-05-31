@@ -46,9 +46,9 @@ scanf("%d", &x);
 printf("Ingrese otro numero:");
 scanf("%d", &y);
 
-x == y ? 
-    printf("%d es igual a %d", x, y) : 
-    printf("%d es distinto a %d", x, y);
+x == y ? // condición a evaluar
+    printf("%d es igual a %d", x, y) : // si se cumple la condición ejecuta lo que se encuentra entre ? y :
+    printf("%d es distinto a %d", x, y); // si no se cumple la condición ejecuta lo que se encuentra entre : y ;
 ```
 
 [Volver](/README.md)
