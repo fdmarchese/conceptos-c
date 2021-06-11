@@ -13,3 +13,4 @@ El siguiente documento ilustra algunos conceptos que pueden ser de utilidad para
 - [Vectores y Matrices](/temas/vectores.md)
 - [Funciones de strings](/temas/funciones-de-strings.md)
 - [Funciones de char](/temas/funciones-de-char.md)
+- [Struct](/temas/struct.md)
