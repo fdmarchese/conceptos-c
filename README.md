@@ -15,3 +15,4 @@ El siguiente documento ilustra algunos conceptos que pueden ser de utilidad para
 - [Funciones de char](/temas/funciones-de-char.md)
 - [Struct](/temas/struct.md)
 - [Punteros](/temas/punteros.md)
+- [Memoria dinámica](/temas/memoria-dinamica.md)
