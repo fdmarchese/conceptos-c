@@ -1,4 +1,4 @@
-# Struct
+# Punteros
 
 Un puntero o apuntador es un tipo de variable que tendrá como valor una posición de memoria de un dato al cual `apunta`.
 
